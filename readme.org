@@ -1,3 +1,16 @@
 * My Advent of Code 2019 Solutions
   
 Questions corresponding to the script can be found here: [[https://adventofcode.com/2019/][Advent of Code 2019]]
+
+** Question 1
+
+Recursion does the trick.
+
+** Question 2
+
+- ~intList = list(map(int, stringList))~ to convert a list of string
+  to list of int.
+- recursion does the trick again.
+- Another thing to note is using ~copy.deepcopy()~ to create a copy of
+  a list (reference type)
+
