@@ -13,6 +13,7 @@ Recursion does the trick.
 - recursion does the trick again.
 - Another thing to note is using ~copy.deepcopy()~ to create a copy of
   a list (reference type)
+  - ~2019/12/03 UPDATE~: duplicating list can also be done by ~l2 = l1[:]~
 
 ** Day 3
 
@@ -36,3 +37,5 @@ Recursion does the trick.
    #+end_src
    
    Neat.
+   
+   [[https://www.youtube.com/watch?v=tMPQp60q9GA][Jonathan Paulson's solution]] is really elegant.
