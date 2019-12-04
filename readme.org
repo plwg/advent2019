@@ -39,3 +39,15 @@ Recursion does the trick.
    Neat.
    
    [[https://www.youtube.com/watch?v=tMPQp60q9GA][Jonathan Paulson's solution]] is really elegant.
+
+** Day 4
+
+   This one was pretty straight-forward. Most of time was spent on
+   understand the requirement of part 2.
+   
+   Could have read in the number as string to get the digits.
+   
+
+
+
+
